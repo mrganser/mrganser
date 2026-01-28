@@ -3,8 +3,8 @@ Hi there! I'm a software engineer with +14 years of experience. Starting from a 
 
 🔧 I specialize in building full‑stack web applications with JS and TS.  
 🌱 I care about mentoring, introducing modern development practices, and building things that scale, while keeping tech debt under control.  
-🎯 I focus on impact, not just shipping code, but shaping the product. 
-🤖 Currently integrating AI into my workflows, responsibly.
+🎯 I focus on impact, not just shipping code, but shaping the product.  
+🤖 Currently integrating AI into my workflows, responsibly.  
 📍 Working remotely from the lovely Las Palmas de Gran Canaria, Spain.
 
 ## 🐶 My pet projects
