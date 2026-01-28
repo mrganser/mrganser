@@ -6,6 +6,14 @@ Hi there! I'm a software engineer with +14 years of experience. Starting from a 
 🎯 I focus on impact, not just shipping code, but shaping the product.  
 📍 Working remotely from the lovely Las Palmas de Gran Canaria, Spain.
 
+## 🐶 My pet projects
+
+- [magicbox](https://github.com/mrganser/magicbox): A web app for sharing embedded content in real time with your friends.
+- [chatterbox](https://github.com/mrganser/chatterbox): A web application for conference calling with chat and screen sharing using WebRTC technology.
+- [file-cloner](https://github.com/mrganser/filecloner): A simple Electron app to mass cloning of local files.
+- [cv-template](https://github.com/mrganser/cv-template): A portfolio web template made with just HTML5 and CSS3.
+
+And some private ones 😊
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/german-suarez-rodriguez)
