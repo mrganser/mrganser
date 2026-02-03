@@ -1,11 +1,11 @@
 ## 💫 About Me
 Hi there! I'm a software engineer with +14 years of experience. Starting from a curious junior to now working as a Principal Engineer managing teams and shaping systems.
 
-🔧 I specialize in building full‑stack web applications with JS and TS.  
-🌱 I care about mentoring, introducing modern development practices, and building things that scale, while keeping tech debt under control.  
-🎯 I focus on impact, not just shipping code, but shaping the product.  
-🤖 Currently integrating AI into my workflows, responsibly.  
-📍 Working remotely from the lovely Las Palmas de Gran Canaria, Spain.
+🔧 I specialize in **DSA, designing and building** full‑stack web applications with JS and TS.  
+🌱 I care about **mentoring**, introducing modern development practices, and building things that scale, while keeping tech debt under control.  
+🎯 I focus on impact, not just shipping code, but shaping the **product**.  
+🤖 Currently integrating **AI** into my workflows, responsibly.  
+📍 Working **remotely** from the lovely Las Palmas de Gran Canaria, Spain.
 
 ## 🐶 My pet projects
 
@@ -22,6 +22,8 @@ And some private ones 😊
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrganser)
 
 ## 💻 Tech Stack
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
