@@ -13,6 +13,7 @@ Hi there! I'm a software engineer with +14 years of experience. Starting from a 
 - [chatterbox](https://github.com/mrganser/chatterbox): A web application for conference calling with chat and screen sharing using WebRTC technology.
 - [file-cloner](https://github.com/mrganser/filecloner): A simple Electron app for mass cloning of local files.
 - [cv-template](https://github.com/mrganser/cv-template): A portfolio web template made with just HTML5 and CSS3.
+- [gh-blind-reviews-extension](https://github.com/mrganser/gh-blind-reviews-extension): A Chrome extension to reduce bias when reviewing PRs by anonymizing names.
 
 And some private ones 😊
 
