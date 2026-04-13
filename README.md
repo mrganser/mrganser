@@ -9,9 +9,9 @@ Hi there! I'm a software engineer with +14 years of experience. Starting from a 
 
 ## 🐶 My pet projects
 
-- **MeepleBee**: A mobile app, a board game companion (App Store coming soon!).
+- **MeepleBee**: A mobile app, a board game companion.
     
-    [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.mrganser.meeplebee)
+    <a href="https://play.google.com/store/apps/details?id=com.mrganser.meeplebee" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"></a> <a href="https://apps.apple.com/app/id6759684074" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="40"></a>
 - [magicbox](https://github.com/mrganser/magicbox): A web app for sharing embedded content in real time with your friends.
 - [chatterbox](https://github.com/mrganser/chatterbox): A web application for conference calling with chat and screen sharing using WebRTC technology.
 - [file-cloner](https://github.com/mrganser/filecloner): A simple Electron app for mass cloning of local files.
