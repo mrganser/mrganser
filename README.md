@@ -1,5 +1,5 @@
 ## 💫 About Me
-Hi there! I'm a software engineer with +14 years of experience. Starting from a curious junior to now working as a Principal Engineer managing teams and shaping systems.
+Hi there! I'm a software engineer with +15 years of experience. Starting from a curious junior to now working as a Principal Engineer managing teams and shaping systems.
 
 🔧 I specialize in **DSA, designing and building** full‑stack web applications with JS and TS.  
 🌱 I care about **mentoring**, introducing modern development practices, and building things that scale, while keeping tech debt under control.  
@@ -7,23 +7,28 @@ Hi there! I'm a software engineer with +14 years of experience. Starting from a 
 🤖 Currently integrating **AI** into my workflows, responsibly.  
 📍 Working **remotely** from the lovely Las Palmas de Gran Canaria, Spain.
 
+## 🏢 Projects at Work
+
+- **Contactel** (Senior Software Engineer, 2011 - 2019): Consultancy working on several government projects, where I grew from junior to senior. Highlighted project I contributed to:
+    - **112SGE**: Web app and its ecosystem, serving millions of people and handling all emergency cases for the Canary Islands. JS full-stack.
+- **Insendi** (Principal Software Engineer, 2019 - present): Edtech startup that built systems for private MBA universities. Highlighted project I led:
+    - **Insendi LMS**: Platform serving thousands of students. TS/JS full-stack microservices, LTI, xAPI, etc.
+
 ## 🐶 My pet projects
 
-- **MeepleBee**: A mobile app, a board game companion.
+- **[MeepleBee](https://meeplebee.com)**: A mobile app, a board game companion.
     
     <a href="https://play.google.com/store/apps/details?id=com.mrganser.meeplebee" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"></a> <a href="https://apps.apple.com/app/id6759684074" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="40"></a>
-- [magicbox](https://github.com/mrganser/magicbox): A web app for sharing embedded content in real time with your friends.
-- [chatterbox](https://github.com/mrganser/chatterbox): A web application for conference calling with chat and screen sharing using WebRTC technology.
-- [file-cloner](https://github.com/mrganser/filecloner): A simple Electron app for mass cloning of local files.
-- [cv-template](https://github.com/mrganser/cv-template): A portfolio web template made with just HTML5 and CSS3.
-- [gh-blind-reviews-extension](https://github.com/mrganser/gh-blind-reviews-extension): A Chrome / Firefox extension to reduce bias when reviewing PRs by anonymizing names.
-
-And some private ones 😊
+- **[magicbox](https://github.com/mrganser/magicbox)**: A web app for sharing embedded content in real time with your friends.
+- **[chatterbox](https://github.com/mrganser/chatterbox)**: A web application for conference calling with chat and screen sharing using WebRTC technology.
+- **[file-cloner](https://github.com/mrganser/filecloner)**: A simple Electron app for mass cloning of local files.
+- **[cv-template](https://github.com/mrganser/cv-template)**: A portfolio web template made with just HTML5 and CSS3.
+- **[gh-blind-reviews-extension](https://github.com/mrganser/gh-blind-reviews-extension)**: A Chrome / Firefox extension to reduce bias when reviewing PRs by anonymizing names.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/german-suarez-rodriguez)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4056222)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrganser)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4056222)
 
 ## 💻 Tech Stack
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
