@@ -14,7 +14,7 @@ Hi there! I'm a software engineer with +15 years of experience. Starting from a 
 - **Insendi** (Principal Software Engineer, 2019 - present): Edtech startup that built systems for private MBA universities. Highlighted project I led:
     - **Insendi LMS**: Platform serving thousands of students. TS/JS full-stack microservices, LTI, xAPI, etc.
 
-## 🐶 My pet projects
+## 🛠️ My side projects
 
 - **[MeepleBee](https://meeplebee.com)**: A mobile app, a board game companion.
     
